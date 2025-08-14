@@ -9,9 +9,9 @@
 ## 👥 팀원 소개
 
 ### 팀장: 윤수정
-- **GitHub**: [@username](https://github.com/username)
-- **Email**: email@example.com
-- **한 줄 소개**: 간단한 자기소개를 작성해주세요
+- **GitHub**: [@username](https://github.com/ysj20076)
+- **Email**: msd5301@gmail.com
+- **한 줄 소개**: 성실함과 꾸준함이 장점인 사람이 되고 싶습니다! 잘 부탁드립니다~
 
 ### 팀원: 백종현
 - **GitHub**: [@corinB](https://github.com/corinB)
