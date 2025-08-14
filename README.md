@@ -14,8 +14,8 @@
 - **한 줄 소개**: 간단한 자기소개를 작성해주세요
 
 ### 팀원: 백종현
-- **GitHub**: [@username](https://github.com/username)
-- **Email**: email@example.com
+- **GitHub**: [@corinB](https://github.com/corinB)
+- **Email**: gkdisrha2020@gmail.com
 - **한 줄 소개**: 전공자지만 많이 부족해요! 잘부탁드립니다~~
 
 ### 팀원: 김도은
