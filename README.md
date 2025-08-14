@@ -34,9 +34,9 @@
 - **한 줄 소개**: 간단한 자기소개를 작성해주세요
 
 ### 팀원: 최형규
-- **GitHub**: [@username](https://github.com/username)
-- **Email**: email@example.com
-- **한 줄 소개**: 간단한 자기소개를 작성해주세요
+- **GitHub**: [@qstory17](https://github.com/qstory17)
+- **Email**: chkoreakr@gmail.com
+- **한 줄 소개**: 코린이지만 열정은 코른이입니다. 목표 달성을 다같이 이뤄가는 동료되길 진심으로 바랍니다. 반갑습니다~!
 
 ### 팀원: 이환진
 - **GitHub**: [@username](https://github.com/username)
